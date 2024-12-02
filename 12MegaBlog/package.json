@@ -1,5 +1,5 @@
 {
-  "name": "reduxtoolkittodo",
+  "name": "12megablog",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,10 +11,15 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.3.0",
+    "@tinymce/tinymce-react": "^5.1.1",
+    "12megablog": "file:",
+    "appwrite": "^16.0.2",
+    "html-react-parser": "^5.1.18",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-hook-form": "^7.53.2",
     "react-redux": "^9.1.2",
-    "reduxtoolkittodo": "file:"
+    "react-router-dom": "^7.0.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.13.0",
